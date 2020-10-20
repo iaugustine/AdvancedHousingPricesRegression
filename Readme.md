@@ -7,7 +7,7 @@ Data Source:https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Use Case: Predict the sales of houses given the data.
 
-Motivation: This dataset has over 80 columns and presents challenges in the EDA, feature engineering and feature selection stages of the data science life cycle. Since these phases take up more than half of a typical data science project, I want to learn these skills by getting my hands dirty.
+Motivation: This dataset has over 80 columns and presents challenges in the EDA, feature engineering and feature selection stages of the data science life cycle. Since these phases take up more than half of a typical data science project, I wish to get my hands dirty and tackle the numerous techniques required for such a task.
 
 Project Life Cycle:
 1. Data Exploration:<br>
